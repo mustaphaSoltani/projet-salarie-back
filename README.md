@@ -22,6 +22,7 @@ mongodb
 1. Créer un projet Spring boot : https://start.spring.io/
 2. Développer l’API en REST en mettant en évidence la séparation des couches : Business et
 REST.
+
  Front: Angular : https://cli.angular.io/
 1. Développer une page basique afin d’appeler le webservice développé.
 
